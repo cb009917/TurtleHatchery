@@ -401,5 +401,11 @@ color: red;
     #subnav{
       height: auto;
     }
+     #footer{
+      flex-direction: column;
+    }
+    #reach-us{
+      margin-left: 0px;
+    }
    
 }

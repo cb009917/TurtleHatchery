@@ -610,14 +610,7 @@ iframe{
         width: 100%;
     }
     .heading-hikk{
-      font-size: 30px;
-      position: absolute ;
-      padding-bottom: 220px;
-      color: white;
-      font-family: anton;
-      font-weight: 300;
-      margin: 0px 20px;
-      text-align: center;
+      visibility:hidden;
   }
     #hikk-img{
       width: 100%;
